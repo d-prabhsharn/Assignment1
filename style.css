@@ -1,0 +1,46 @@
+#nx2{
+    height: 550px;
+    background: url('img/n2.jpg');
+    text-align: center;
+    color: #e8491d;
+    width:100%;
+}
+#nx2 h1{
+    margin-top: 5%;
+    font-size: 500%;
+       text-shadow: 6px 5px 6px rgba(0, 0, 0, 0.5);
+}
+#nx2 h4{
+     margin-top: 8%;
+    font-size: 300%;
+       text-shadow: 6px 5px 6px rgba(0, 0, 0, 0.5);
+}
+#nx2 nav a{
+     color:#212b31;
+    height: 2.5em;
+    line-height:2.5em ;
+    font-size: 170%;
+    font-family: arial;
+    display: inline-block;
+    width: 18%;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid;
+    text-decoration: none;
+      margin-top: 2%;
+     box-shadow: 0 6px 20px 0 rgba(0, 0, 0,0.4);
+}
+#nx2 nav a:hover{
+     color:orangered;
+    height: 2.5em;
+    line-height:2.5em ;
+    font-size: 170%;
+    font-family: arial;
+    background-color: #212b31;
+    display: inline-block;
+     width: 18%;
+    text-align: center;
+    text-decoration: none;
+}
+
+
